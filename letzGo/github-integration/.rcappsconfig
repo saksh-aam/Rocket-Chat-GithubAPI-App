@@ -1,0 +1,19 @@
+{
+    "url": "https://3000-sakshaam-rocketchat-nzru62kriye.ws-us39a.gitpod.io/",
+    "username": "ass",
+    "password": "ass",
+    "ignoredFiles": [
+        "**/README.md",
+        "**/package-lock.json",
+        "**/package.json",
+        "**/tslint.json",
+        "**/tsconfig.json",
+        "**/*.js",
+        "**/*.js.map",
+        "**/*.d.ts",
+        "**/*.spec.ts",
+        "**/*.test.ts",
+        "**/dist/**",
+        "**/.*"
+    ]
+}

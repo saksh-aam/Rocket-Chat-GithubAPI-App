@@ -1,0 +1,16 @@
+{
+    "id": "e2035154-5e75-48b1-baf4-83af82487f2d",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Saksham Kathuria",
+        "homepage": "https://github.com/saksh-aam/",
+        "support": "NA"
+    },
+    "name": "GitHub Integration",
+    "nameSlug": "github-integration",
+    "classFile": "GitHubIntegrationApp.ts",
+    "description": "App that integrated GitHub with Rocket.Chat",
+    "implements": []
+}
