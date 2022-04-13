@@ -1,5 +1,5 @@
 # GitHub Integration
-App that integrated GitHub with Rocket.Chat
+App that integrated GitHub with Rocket.Chat. This repo has been built completely by taking the reference from https://github.com/RocketChat/Apps.GitHub and webinars of Rocket.Chat
 
 ## Getting Started
 Now that you have generated a blank default Rocket.Chat App, what are you supposed to do next?
