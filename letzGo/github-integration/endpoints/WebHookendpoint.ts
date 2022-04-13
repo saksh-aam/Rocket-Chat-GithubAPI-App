@@ -23,6 +23,7 @@ export class WebHookendpoint extends ApiEndpoint{
             message
             .setSender(sender)
             .setUsernameAlias(usernameAlias.value)
+            .setGroupable(false)
             .setRoom(room)
             .setText('Github webhook received');
             
